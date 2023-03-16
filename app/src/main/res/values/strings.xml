@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">20230315-PRIYAGOVIND-NYCSchools</string>
+    <string name="str_no_data">No Records Found</string>
+    <string name="schools">NYC Schools</string>
+    <string name="website">Website: %1s</string>
+    <string name="phone">Phone: %1s</string>
+    <string name="email">Email: %1s </string>
+    <string name="school_details">"NYCSchool Details "</string>
+    <string name="test_stats">Number of Test takers : %1s\n\nCritical Reading Average Score: %2s\n\nAverage Math Score: %3s\n\nAverage Writing Score: %4s</string>
+    <string name="no_stats_available">No Stats Available</string>
+    <string name="no_network">Please check your network connection</string>
+</resources>

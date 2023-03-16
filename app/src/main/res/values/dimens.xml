@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="large_font">20sp</dimen>
+    <dimen name="body_font">18sp</dimen>
+    <dimen name="inner_body_font">16sp</dimen>
+    <dimen name="inner_body_small_font">15sp</dimen>
+    <dimen name="links_font">14sp</dimen>
+</resources>
